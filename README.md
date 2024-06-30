@@ -17,7 +17,7 @@ Make sure you have the following installed:
 
 1. *Clone the repository*
    ```sh
-   git clone https://github.com/555Shivam/todo-list-app.git
+   git clone https://github.com/555Shivam/todo-list-mern-project-app.git
 
 2: Navigate to the project directory
    cd todo-list-app
