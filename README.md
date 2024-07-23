@@ -15,29 +15,29 @@ Make sure you have the following installed:
 
 ### Installation
 
--1. *Clone the repository*
+- 1. *Clone the repository*
    
 git clone https://github.com/555Shivam/todo-list-mern-project-app.git
 
--2: Navigate to the project directory
+- 2: Navigate to the project directory
    cd todo-list-app
--3:Install dependencies
+- 3:Install dependencies
   npm install
   
 ### Running the Application
--1: Start the development server
+- 1: Start the development server
   npm start
 
 ## The application will be available at http://localhost:3000
 
 ### Features
--Add Tasks: Users can add new tasks.
--View Tasks: Users can view all their tasks.
--Edit Tasks: Users can edit existing tasks.
--Delete Tasks: Users can delete tasks.
--Mark as Completed: Users can mark tasks as completed.
+- Add Tasks: Users can add new tasks.
+- View Tasks: Users can view all their tasks.
+- Edit Tasks: Users can edit existing tasks.
+- Delete Tasks: Users can delete tasks.
+- Mark as Completed: Users can mark tasks as completed.
 
 ### Built With
--React - A JavaScript library for building user interfaces
--Redux - A predictable state container for JavaScript apps
--React-Redux - Official React bindings for Redux
+- React - A JavaScript library for building user interfaces
+- Redux - A predictable state container for JavaScript apps
+- React-Redux - Official React bindings for Redux
